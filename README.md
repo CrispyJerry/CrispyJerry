@@ -54,13 +54,13 @@
 **[Website Optimisation & SEO Ranking]**
 Designed and deployed a responsive site with reusable front-end components and an automated CI/CD pipeline (GitHub Actions → Vercel). Refined SEO strategy and front-end performance, **cutting page load time by 94% (23.5s → 1.5s)**.
 
-Dog Grooming Website Demo: <a href="https://abc123xyz.site/">
+Dog Grooming Website: <a href="https://abc123xyz.site/">Demo</a>
 
-Dog Grooming Website Repo: <a href="https://github.com/CrispyJerry/dogGrooming-website">
+Dog Grooming Website: <a href="https://github.com/CrispyJerry/dogGrooming-website">Repo</a>
 
-Riverside Electrical Concept Demo: <a href="https://riversidetest.pages.dev/">
+Riverside Electrical Concept: <a href="https://riversidetest.pages.dev/">Demo</a>
 
-Riverside Electrical Repo: <a href="https://github.com/CrispyJerry/riversidetest">
+Riverside Electrical Repo: <a href="https://github.com/CrispyJerry/riversidetest">Repo</a>
 
 **[Emergency Response Dispatch and Control API (In Progress)]**
 Currently developing REST API for managing emergency response units such as Ambulance, Fire and Police.

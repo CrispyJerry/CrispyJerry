@@ -62,9 +62,9 @@ Riverside Electrical Concept: <a href="https://riversidetest.pages.dev/">Demo</a
 
 Riverside Electrical Repo: <a href="https://github.com/CrispyJerry/riversidetest">Repo</a>
 
-**[Emergency Response Dispatch and Control API (In Progress)]**
+**[Emergency Response Dispatch and Control API (In Progress: PHASE 2)]**
 Currently developing REST API for managing emergency response units such as Ambulance, Fire and Police.
-**[In progress: Phase 2]**
+
 
 ---
 

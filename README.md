@@ -55,9 +55,11 @@
 Designed and deployed a responsive site with reusable front-end components and an automated CI/CD pipeline (GitHub Actions → Vercel). Refined SEO strategy and front-end performance, **cutting page load time by 94% (23.5s → 1.5s)**.
 
 Dog Grooming Website Demo: <a href="https://abc123xyz.site/">
+
 Dog Grooming Website Repo: <a href="https://github.com/CrispyJerry/dogGrooming-website">
 
 Riverside Electrical Concept Demo: <a href="https://riversidetest.pages.dev/">
+
 Riverside Electrical Repo: <a href="https://github.com/CrispyJerry/riversidetest">
 
 **[Emergency Response Dispatch and Control API (In Progress)]**

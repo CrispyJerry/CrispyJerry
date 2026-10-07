@@ -52,7 +52,7 @@
 ### 🚀 Featured Projects
 
 **[Website Optimisation & SEO Ranking]**
-Designed and deployed a responsive site with reusable front-end components and an automated CI/CD pipeline (GitHub Actions → Vercel). Refined SEO strategy and front-end performance, **cutting page load time by 94% (23.5s → 1.5s)**.
+Designed and deployed a responsive site with reusable front-end components and an automated CI/CD pipeline (GitHub Actions → Cloudflare Pages). Refined SEO strategy and front-end performance, **cutting page load time by 94% (23.5s → 1.5s)**.
 
 Dog Grooming Website: <a href="https://abc123xyz.site/">Demo</a>
 
@@ -62,8 +62,8 @@ Riverside Electrical Concept: <a href="https://riversidetest.pages.dev/">Demo</a
 
 Riverside Electrical Repo: <a href="https://github.com/CrispyJerry/riversidetest">Repo</a>
 
-**[Emergency Response Dispatch and Control API (In Progress: PHASE 4)]**
-Currently developing REST API Validation.
+**[Emergency Response Dispatch and Control API]**
+A REST API for managing emergency-response units such as ambulances and fire engines. Supports full CRUD, unit status transitions, filtering, and business-rule validation, backed by PostgreSQL. Built with Python, FastAPI, Pydantic and SQLAlchemy, tested with pytest, and containerised with Docker. Developed in phases using a feature-branch Git workflow.
 
 
 
